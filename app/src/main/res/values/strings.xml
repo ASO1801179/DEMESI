@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">DEMESI</string>
+    <string name="mailhint">メールアドレス</string>
+    <string name="pwdhint">パスワード</string>
 </resources>
